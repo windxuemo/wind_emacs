@@ -1,0 +1,19 @@
+* Blogs                                                              :elfeed:
+** entry-title: \(linux\|linus\|ubuntu\|kde\|gnome\)            :linux:
+** news                                                                :news:
+*** https://news.qq.com/newsgn/rss_newsgn.xml
+*** https://tech.qq.com/web/webnews/rss_11.xml
+*** https://tech.qq.com/web/it/telerss.xml
+** Technology and Media News                                            :tech:
+*** https://feeds2.feedburner.com/thenextweb
+*** https://www.techmeme.com/index.xml
+*** https://www.theverge.com/rss/index.xml
+** Celebrity blog                                                 :celebrity:
+*** https://feed.williamlong.info                                      :月光:
+*** https://www.zreading.cn/feed                                   :左岸读书:
+*** https://blog.yitianshijie.net
+** Software Development                                                 :dev:
+*** forum
+**** https://www.freebuf.com/feed                                  :security:
+** habit&ent                                                          :free:
+*** https://feed.appinn.com/                                       :小众软件:

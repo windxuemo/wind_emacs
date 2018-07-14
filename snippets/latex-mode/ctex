@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ctex
+# key: ctex
+# --
+\usepackage{ctex}
