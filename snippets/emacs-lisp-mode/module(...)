@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: module(...)
-# key: module
-# --
-;;;; $1-config-start
-$0
-;;;; $2-config-end

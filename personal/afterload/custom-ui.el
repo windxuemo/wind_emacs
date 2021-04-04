@@ -1,6 +1,0 @@
-(diminish 'projectile-mode)
-(diminish 'company-mode "Com")
-(diminish 'guru-mode)
-(diminish 'golden-ratio-mode)
-(diminish 'editorconfig-mode "Edit")
-(diminish 'flycheck-mode)
