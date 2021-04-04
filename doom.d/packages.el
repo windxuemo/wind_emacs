@@ -64,5 +64,7 @@
 (package! org-pomodoro
   :recipe (:host github :repo "marcinkoziej/org-pomodoro"))
 
+(package! org-download
+  :recipe (:host github :repo "abo-abo/org-download"))
 
 (package! pomidor :disable t)
